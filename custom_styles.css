@@ -3,3 +3,7 @@ font-size: 19px;
 font-weight: bold;
 margin-left: -14px
 }
+
+.btn-default {width:815px;
+              background-color: blue;
+              color: white;}
